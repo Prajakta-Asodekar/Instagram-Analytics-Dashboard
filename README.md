@@ -1,2 +1,2 @@
 
-![Instagram-Analytics-Dashboard](InstagramAnalyticsDashboard.PNG)
+![Instagram-Analytics-Dashboard](InstagramAnalyticsDashboard.PNGg)
